@@ -1,0 +1,6 @@
+1. git init - инициализация
+2. git remote add origin https://github.com/ydekor/твоярепозитория.git - указываешь куда ты будешь сохранять
+3. git add * - добавить все фаилы
+4. git commit -m "first commit" - первый коммит
+5. git branch -M testBranch - создание новой ветки если она нужна
+6. git push -u origin testBranch - пушишь изменения в ветку которую создал (testBranch)
